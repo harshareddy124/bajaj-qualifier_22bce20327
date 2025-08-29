@@ -10,9 +10,9 @@ This Spring Boot application automatically executes the Bajaj Finserv Health hir
 
 ## Student Details
 
-- **Name**: Tanguturi Venkata Thanuj
-- **Registration Number**: 22bce20003
-- **Email**: venkata.22bce20003@vitapstudent.ac.in
+- **Name**: K Harsha Vardhan Reddy
+- **Registration Number**: 22bce20327
+- **Email**: harshavardhan.22bce20327@vitapstudent.ac.in
 
 ## SQL Solution (Question 1)
 
